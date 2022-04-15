@@ -9,7 +9,7 @@
       <email>kisanHorini@protonmail.com</email>
       <name><![CDATA[KonstantinDjairo]]></name>
     </owner>
-    <source type="git">git://github.com/KonstantinDjairo/paludis-gentoo-overlay.git</source>
+    <source type="git">https://github.com/KonstantinDjairo/paludis-gentoo-overlay.git</source>
     <feed>https://github.com/KonstantinDjairo/paludis-gentoo-overlay/commits/master.atom</feed>
   </repo>
 </repositories>
