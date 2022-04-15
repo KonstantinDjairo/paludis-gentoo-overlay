@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>larry</name>
+		<description>experimental paludis patch for gentoo.</description>
+		<homepage>https://github.com/KonstantinDjairo/paludis-gentoo-overlay/</homepage>
+		<owner>
+			<email>kisanHorini@protonmail.com</email>
+		</owner>
+		<source type="git">https://github.com/KonstantinDjairo/paludis-gentoo-overlay.git</source>
+	</repo>
+</repositories>
