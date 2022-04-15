@@ -4,7 +4,7 @@
   <repo quality="experimental" status="unofficial">
     <name><![CDATA[paludis-gentoo-overlay]]></name>
     <description lang="en"><![CDATA[Paludis patches for Gentoo]]></description>
-    <homepage>http://github.com/KonstantinDjairo/paludis-gentoo-overlay</homepage>
+    <homepage>https://github.com/KonstantinDjairo/paludis-gentoo-overlay</homepage>
     <owner type="person">
       <email>kisanHorini@protonmail.com</email>
       <name><![CDATA[KonstantinDjairo]]></name>
