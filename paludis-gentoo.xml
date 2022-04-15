@@ -1,13 +1,15 @@
-<?xml version="1.0" ?>
-
-<repositories version="1.0">
-	<repo priority="50" quality="experimental" status="unofficial">
-		<name>paludis-gentoo</name>
-		<description>experimental paludis patch for gentoo.</description>
-		<homepage>https://github.com/KonstantinDjairo/paludis-gentoo-overlay/</homepage>
-		<owner>
-			<email>kisanHorini@protonmail.com</email>
-		</owner>
-		<source type="git">https://github.com/KonstantinDjairo/paludis-gentoo-overlay.git</source>
-	</repo>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[paludis-gentoo]]></name>
+    <description lang="en"><![CDATA[Paludis patches for Gentoo]]></description>
+    <homepage>http://github.com/KonstantinDjairo/paludis-gentoo-overlay</homepage>
+    <owner type="person">
+      <email>kisanHorini@protonmail.com</email>
+      <name><![CDATA[KonstantinDjairo]]></name>
+    </owner>
+    <source type="git">git://github.com/KonstantinDjairo/paludis-gentoo-overlay.git</source>
+    <feed>https://github.com/KonstantinDjairo/paludis-gentoo-overlay/commits/master.atom</feed>
+  </repo>
 </repositories>
